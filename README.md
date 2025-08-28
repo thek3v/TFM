@@ -1,7 +1,7 @@
 # TFM
 TFM: Análisis de microbiota intestinal en el estudio OBEKIT. Identificación de taxones diferenciales, clústeres microbianos y su relación con parámetros clínicos y metabólicos bajo intervenciones dietéticas.
 
-# TFM - Biomarcadores metabolómicos y de microbiota en relación con dieta y enfermedad metabólica
+# Biomarcadores metabolómicos y de microbiota en relación con dieta y enfermedad metabólica
 
 Este repositorio contiene el código, resultados y documentación del **Trabajo de Fin de Máster (TFM)** en el Máster en Ciencia de Datos para Ciencias Experimentales (Universidad de Navarra).  
 El objetivo del proyecto es **evaluar el papel de la microbiota intestinal en la respuesta clínica y metabólica a una intervención dietética** en sujetos con sobrepeso y obesidad de la cohorte OBEKIT.
