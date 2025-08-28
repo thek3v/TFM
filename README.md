@@ -28,7 +28,7 @@ El objetivo del proyecto es **evaluar el papel de la microbiota intestinal en la
 - La respuesta a la intervención dietética estuvo condicionada por el microbiotipo basal.  
 
 ## Autoría
-- **Autor**: Kevin Vargas  
+- **Autor**: Kevin Randy Vargas Castro  
 - **Directores**: Fermín Milagro y Paula Aranaz  
 - **Institución**: Universidad de Navarra  
 - **Año**: 2025  
